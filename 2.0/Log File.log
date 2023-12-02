@@ -237,3 +237,37 @@
 10-05-2023 12:45:52 INFO _internal => 127.0.0.1 - - [10/May/2023 12:45:52] "[36mGET /static/fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1[0m" 304 - 
 10-05-2023 12:45:52 INFO _internal => 127.0.0.1 - - [10/May/2023 12:45:52] "[36mGET /static/fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1[0m" 304 - 
 10-05-2023 12:45:52 INFO _internal => 127.0.0.1 - - [10/May/2023 12:45:52] "[36mGET /static/fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1[0m" 304 - 
+02-12-2023 00:14:40 INFO _internal => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 
+02-12-2023 00:14:40 INFO _internal => [33mPress CTRL+C to quit[0m 
+02-12-2023 02:01:56 INFO _internal => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 
+02-12-2023 02:01:56 INFO _internal => [33mPress CTRL+C to quit[0m 
+02-12-2023 02:01:56 INFO _internal =>  * Restarting with stat 
+02-12-2023 02:02:02 WARNING _internal =>  * Debugger is active! 
+02-12-2023 02:02:02 INFO _internal =>  * Debugger PIN: 181-136-876 
+02-12-2023 02:02:21 INFO app => Home page loaded successfully 
+02-12-2023 02:02:21 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:02:21] "GET / HTTP/1.1" 200 - 
+02-12-2023 02:02:21 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:02:21] "[33mGET /static/vendor/jquery-ui/jquery-ui.min.css HTTP/1.1[0m" 404 - 
+02-12-2023 02:02:21 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:02:21] "GET /static/css/style.css HTTP/1.1" 200 - 
+02-12-2023 02:02:21 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:02:21] "GET /static/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1" 200 - 
+02-12-2023 02:02:21 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:02:21] "GET /static/images/header-text.png HTTP/1.1" 200 - 
+02-12-2023 02:02:21 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:02:21] "GET /static/images/dots.png HTTP/1.1" 200 - 
+02-12-2023 02:02:22 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:02:22] "GET /static/images/form-img.jpg HTTP/1.1" 200 - 
+02-12-2023 02:02:22 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:02:22] "GET /static/fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1" 200 - 
+02-12-2023 02:02:22 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:02:22] "GET /static/fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1" 200 - 
+02-12-2023 02:02:22 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:02:22] "GET /static/fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1" 200 - 
+02-12-2023 02:02:22 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:02:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - 
+02-12-2023 02:04:48 INFO app => Home page loaded successfully 
+02-12-2023 02:04:48 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:04:48] "GET / HTTP/1.1" 200 - 
+02-12-2023 02:04:48 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:04:48] "[33mGET /static/vendor/jquery-ui/jquery-ui.min.css HTTP/1.1[0m" 404 - 
+02-12-2023 02:04:48 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:04:48] "GET /static/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1" 200 - 
+02-12-2023 02:04:48 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:04:48] "GET /static/css/style.css HTTP/1.1" 200 - 
+02-12-2023 02:04:48 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:04:48] "GET /static/images/header-text.png HTTP/1.1" 200 - 
+02-12-2023 02:04:48 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:04:48] "GET /static/images/dots.png HTTP/1.1" 200 - 
+02-12-2023 02:04:48 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:04:48] "GET /static/images/form-img.jpg HTTP/1.1" 200 - 
+02-12-2023 02:04:49 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:04:49] "GET /static/fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1" 200 - 
+02-12-2023 02:04:49 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:04:49] "GET /static/fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1" 200 - 
+02-12-2023 02:04:49 INFO _internal => 127.0.0.1 - - [02/Dec/2023 02:04:49] "GET /static/fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1" 200 - 
+02-12-2023 10:39:27 INFO app => Prediction done for Classification model 
+02-12-2023 10:39:27 INFO app => Prediction done for Regression model 
