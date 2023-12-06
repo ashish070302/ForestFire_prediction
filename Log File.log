@@ -421,3 +421,4 @@
 05-12-2023 23:56:29 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:29] "[36mGET /static/fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1[0m" 304 - 
 05-12-2023 23:56:29 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:29] "[36mGET /static/fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1[0m" 304 - 
 05-12-2023 23:56:29 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:29] "[36mGET /static/fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1[0m" 304 - 
+06-12-2023 10:49:18 INFO _internal =>  * Detected change in 'D:\\capstone\\ForestFire_prediction\\test.py', reloading 
