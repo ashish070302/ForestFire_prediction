@@ -370,3 +370,54 @@
 04-12-2023 12:07:39 INFO _internal => 127.0.0.1 - - [04/Dec/2023 12:07:39] "[36mGET /static/fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1[0m" 304 - 
 04-12-2023 12:07:39 INFO _internal => 127.0.0.1 - - [04/Dec/2023 12:07:39] "[36mGET /static/fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1[0m" 304 - 
 04-12-2023 12:07:39 INFO _internal => 127.0.0.1 - - [04/Dec/2023 12:07:39] "[36mGET /static/fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1[0m" 304 - 
+05-12-2023 23:43:30 INFO _internal => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.17.51:5000 
+05-12-2023 23:43:30 INFO _internal => [33mPress CTRL+C to quit[0m 
+05-12-2023 23:43:30 INFO _internal =>  * Restarting with stat 
+05-12-2023 23:43:34 WARNING _internal =>  * Debugger is active! 
+05-12-2023 23:43:34 INFO _internal =>  * Debugger PIN: 181-136-876 
+05-12-2023 23:55:30 INFO _internal => [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000 
+05-12-2023 23:55:30 INFO _internal => [33mPress CTRL+C to quit[0m 
+05-12-2023 23:55:30 INFO _internal =>  * Restarting with stat 
+05-12-2023 23:55:35 WARNING _internal =>  * Debugger is active! 
+05-12-2023 23:55:35 INFO _internal =>  * Debugger PIN: 181-136-876 
+05-12-2023 23:55:44 INFO app => Home page loaded successfully 
+05-12-2023 23:55:45 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:55:45] "GET / HTTP/1.1" 200 - 
+05-12-2023 23:55:45 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:55:45] "[33mGET /static/vendor/jquery-ui/jquery-ui.min.css HTTP/1.1[0m" 404 - 
+05-12-2023 23:55:45 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:55:45] "GET /static/css/style.css HTTP/1.1" 200 - 
+05-12-2023 23:55:45 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:55:45] "GET /static/images/header-text.png HTTP/1.1" 200 - 
+05-12-2023 23:55:45 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:55:45] "GET /static/images/dots.png HTTP/1.1" 200 - 
+05-12-2023 23:55:45 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:55:45] "GET /static/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1" 200 - 
+05-12-2023 23:55:45 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:55:45] "GET /static/images/form-img.jpg HTTP/1.1" 200 - 
+05-12-2023 23:55:45 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:55:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - 
+05-12-2023 23:55:45 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:55:45] "GET /static/fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1" 200 - 
+05-12-2023 23:55:45 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:55:45] "GET /static/fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1" 200 - 
+05-12-2023 23:55:45 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:55:45] "GET /static/fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1" 200 - 
+05-12-2023 23:56:07 INFO app => Home page loaded successfully 
+05-12-2023 23:56:07 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:07] "GET / HTTP/1.1" 200 - 
+05-12-2023 23:56:07 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:07] "[33mGET /static/vendor/jquery-ui/jquery-ui.min.css HTTP/1.1[0m" 404 - 
+05-12-2023 23:56:07 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:07] "GET /static/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1" 200 - 
+05-12-2023 23:56:07 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:07] "GET /static/css/style.css HTTP/1.1" 200 - 
+05-12-2023 23:56:07 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:07] "GET /static/images/header-text.png HTTP/1.1" 200 - 
+05-12-2023 23:56:07 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:07] "GET /static/images/dots.png HTTP/1.1" 200 - 
+05-12-2023 23:56:08 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:08] "GET /static/images/form-img.jpg HTTP/1.1" 200 - 
+05-12-2023 23:56:08 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:08] "GET /static/fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1" 200 - 
+05-12-2023 23:56:08 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:08] "GET /static/fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1" 200 - 
+05-12-2023 23:56:08 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:08] "GET /static/fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1" 200 - 
+05-12-2023 23:56:08 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - 
+05-12-2023 23:56:28 INFO app => Prediction done for Classification model 
+05-12-2023 23:56:28 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:28] "POST /predictC HTTP/1.1" 200 - 
+05-12-2023 23:56:28 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:28] "[36mGET /static/fonts/material-icon/css/material-design-iconic-font.min.css HTTP/1.1[0m" 304 - 
+05-12-2023 23:56:28 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:28] "[33mGET /static/vendor/jquery-ui/jquery-ui.min.css HTTP/1.1[0m" 404 - 
+05-12-2023 23:56:28 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:28] "[36mGET /static/images/header-text.png HTTP/1.1[0m" 304 - 
+05-12-2023 23:56:28 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 - 
+05-12-2023 23:56:28 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:28] "[36mGET /static/images/dots.png HTTP/1.1[0m" 304 - 
+05-12-2023 23:56:29 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:29] "[36mGET /static/images/form-img.jpg HTTP/1.1[0m" 304 - 
+05-12-2023 23:56:29 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:29] "[36mGET /static/fonts/poppins/poppins-v5-latin-600.woff2 HTTP/1.1[0m" 304 - 
+05-12-2023 23:56:29 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:29] "[36mGET /static/fonts/poppins/poppins-v5-latin-700.woff2 HTTP/1.1[0m" 304 - 
+05-12-2023 23:56:29 INFO _internal => 127.0.0.1 - - [05/Dec/2023 23:56:29] "[36mGET /static/fonts/poppins/poppins-v5-latin-500.woff2 HTTP/1.1[0m" 304 - 
